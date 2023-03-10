@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "9e318efc0e155d6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ced1f5584777d49d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3b797bf03992878",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "LLM+RAG.canvas",
+                "viewState": {
+                  "x": -136.16473714107804,
+                  "y": 2233.6679232469096,
+                  "zoom": -0.29622802734375026
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f37ff3daf0a0f95",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1be713756d4f8cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3caed9efad803db5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29d27f16c46d857e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "335dac274e541a09",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5962737624330c73",
+    "type": "split",
+    "children": [
+      {
+        "id": "99629cf806a1e8e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9868a59cf4a44d27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20230309131640.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c9d86b3e7d7d501",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pasted image 20230309131640.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2953a367438ab89",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a0eaff22af680132",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pasted image 20230309131640.png"
+              }
+            }
+          },
+          {
+            "id": "91a1b6fed2e894a2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 560.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e3b797bf03992878",
+  "lastOpenFiles": []
+}

@@ -8,17 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3b797bf03992878",
+            "id": "38c302e46c3c0d8f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "LLM+RAG.canvas",
                 "viewState": {
-                  "x": -136.16473714107804,
-                  "y": 2233.6679232469096,
-                  "zoom": -0.29622802734375026
+                  "x": -1456.497543107215,
+                  "y": 737.7292487481423,
+                  "zoom": -1.1656087239583335
                 }
+              }
+            }
+          },
+          {
+            "id": "360ec0f4d8fb10dd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "resources/bert_embedding_space.png"
               }
             }
           }
@@ -88,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230309131640.png",
+                "file": "LLM+RAG.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20230309131640.png",
+                "file": "LLM+RAG.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20230309131640.png"
+                "file": "LLM+RAG.canvas"
               }
             }
           },
@@ -157,6 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3b797bf03992878",
-  "lastOpenFiles": []
+  "active": "38c302e46c3c0d8f",
+  "lastOpenFiles": [
+    "resources/bert_embedding_space.png",
+    "resources",
+    "resources/gpt3_embedding.png",
+    "Pasted image 20230309131640.png",
+    "LLM+RAG.canvas",
+    "resources/build_prompt.png",
+    "resources/user_inquiry.png",
+    "README.md"
+  ]
 }
